@@ -1,0 +1,26 @@
+{
+  "name": "fundamentos-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonaldM-Dev/Fundamentos-NodeJS.git"
+  },
+  "keywords": [
+    "192016devmoz"
+  ],
+  "author": "RonaldM-Dev <ronaldmozodc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonaldM-Dev/Fundamentos-NodeJS/issues"
+  },
+  "homepage": "https://github.com/RonaldM-Dev/Fundamentos-NodeJS#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1",
+    "puppeteer": "^10.4.0"
+  }
+}
